@@ -3961,9 +3961,10 @@ Please keep the list in alphabetical order by last name!
  trac="virmaux"/>
 <contributor
  name="Solomon Vishkautsan"
- location="Ben-Gurion University, Israel"
+ location="Tel-Hai Academic College, Israel"
  url="http://www.wishcow.com"
- trac="wishcow"/>
+ trac="wishcow"
+ github="wishcow79"/>
 <contributor
  name="Quimey Vivas"
  location="Universidad de Buenos Aires, Argentina"
